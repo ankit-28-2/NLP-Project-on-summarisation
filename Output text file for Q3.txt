@@ -1,0 +1,508 @@
+PARAGRAPH: Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+
+SUMMARY of the ABOVE PARAGRAPH: Gauri shirmali is doing computer science engineering from Geetanjali Institute of technical studies in Rajasthan . Her technical skills include programming in Python, Java, C, c++, databases and web development . She is a team player and very optimistic in tough times .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh What are the five specific point about Tcs which makes Tcs different from the other IT MNCs?
+COSINE SIMILARITY SCORE = 0.69443285
+sir like I said there is a work life balance and it a it it promotes like gender equality ,there is no like discrimination on the basis of that. And it so it's very good ethics overall.
+COSINE SIMILARITY SCORE = 0.6153734
+Okay okay Gauri nice talking to you , thankyou sir , and  I request kernel rathor sir to take next part of interview Right.
+COSINE SIMILARITY SCORE = 0.5501616
+Thankyou so much sir
+COSINE SIMILARITY SCORE = 0.5167833
+PARAGRAPH: Okay ahh What are the five specific point about Tcs which makes Tcs different from the other IT MNCs?
+
+SUMMARY of the ABOVE PARAGRAPH: What are the five specific point about Tcs which makes Tcs different from the other IT MNCs? What are five specific points about the company which makes it different from others? What do you know about the five points that make Tcs unique from other IT companies? Share your knowledge of these five points .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sure firstly sir ahh tcs is has a brand name, it is known it is a multinational company and it has a very good brand name and thus it would give me a good start for my career. Secondly, it has a work life balance. I have talked to many of my friends who are in Tcs and they say that Tcs gives a very good work life balance. So that is the second point. Third point is the colleagues there hardraw very futuristic in their skills. So there is a lot to learn from them. Fourthly, as Tcs is a multinational company, I would like to I would have the chance to even uhh go abroad and a meet a people of different nationalities. And lastly there as Tcs is has been in the industry for almost hundred and fifty years. So it gives me a sense of job security to some extent.
+
+SUMMARY of the ABOVE PARAGRAPH: Tcs is has a brand name, it is known it is a multinational company and it has a very good brand name and thus it would give me a good start for my career . I would like to I would have the chance to go abroad and a meet a people of different nationalities . And lastly there as Tcs has been in the industry for almost hundred and fifty years, it gives me a sense of job security .
+
+INSIGHTS of the PARAGRAPH: 
+Okay what are the ethical values Tcs have?
+COSINE SIMILARITY SCORE = 0.5501946
+PARAGRAPH: Okay what are the ethical values Tcs have?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay what are the ethical values Tcs have? Okay . Okay . What do you have? Please tell us what your ethical values are? Please send us a video of your own . Send it to CNN iReport: Share your photos of yourself with us at iReport .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: sir like I said there is a work life balance and it a it it promotes like gender equality ,there is no like discrimination on the basis of that. And it so it's very good ethics overall.
+
+SUMMARY of the ABOVE PARAGRAPH: There is a work life balance and it promotes like gender equality ,there is no like discrimination on the basis of that. And it so it so is very good ethics overall. sir like I said there is a very good ethical ethics overall,’s very good .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.7327193
+PARAGRAPH: Okay okay Gauri nice talking to you , thankyou sir , and  I request kernel rathor sir to take next part of interview Right.
+
+SUMMARY of the ABOVE PARAGRAPH: Gauri asks kernel rathor to take next part of interview right. Okay okay okay Gauri nice talking to you , thankyou sir . Gauri says she wants kernel to take part in interview right now. Gauri: "I am happy to talk to Gauri again. I am very happy to see the end of the interview"
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Thankyou so much sir
+
+SUMMARY of the ABOVE PARAGRAPH: Thankyou so much sir. Thank you so much for your kind of kind of words . I love you all over the world. I can't wait to hear from you again. I'm so happy to see you back in the U.S. for the first time.
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Good afternoon
+
+SUMMARY of the ABOVE PARAGRAPH: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of the day for next week's gallery of snapshots . Visit http://www.dailymailonline.com/Travel next Friday for a new look at the gallery of iReporters.com .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Good afternoon sir
+
+SUMMARY of the ABOVE PARAGRAPH: Good afternoon sir. Good afternoon Sir. I'm going to tell you what I really want to do . I'm looking forward to seeing you again. Please send your best wishes to see if you know you can still see you in good spirits . Have you ever seen him? Please email him to say hello to him.
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: All prepare
+
+SUMMARY of the ABOVE PARAGRAPH: All prepare for the first time in a week to prepare for President Obama's visit to the U.S. House of Representatives in Washington, D.C. Rep. Joe Biden is scheduled to appear on CNN.com Live on Sunday at 9 p.m. ET .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Yes sir
+
+SUMMARY of the ABOVE PARAGRAPH: Yes sir. Yes sir . Yes sir, please please please tell me . Please tell us what you want to do . Yes, please. Yes, yes, yes. Yes. Yes . No, no, yes sir. No, yes . No. No. I want to say yes .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay Tell us which other campus interviews Have you appeared for and what has been the results?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay Tell us which other campus interviews have you appeared for and what has been the results? Have you ever appeared for a campus interview? Tell us what you have done and what you think about the results of the interviews? Send us your thoughts to iReport@mailonline.com .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: So I have interviewed for darnet, which is an depor only and I got selected for it. I also interviewed for gateway industries. I was not selected in the interview I got to the interview part but was not selected So that's it. I've only given these interviews.
+
+SUMMARY of the ABOVE PARAGRAPH: So I have interviewed for darnet, which is an depor only and I got selected for it . I also interviewed for gateway industries. I got to the interview part but was not selected . So that's it. I've only given these interviews. So that is it .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh What are the five specific point about Tcs which makes Tcs different from the other IT MNCs?
+COSINE SIMILARITY SCORE = 0.688388
+PARAGRAPH: Okay Have you analyzed Why you didn't get selected for gateway?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay Have you analyzed Why you didn't get selected for gateway? Why not you get selected by gateway? Okay. Okay. Why not us selected? Why didn't we get selected to gateway? Please submit your analysis for the next week's list of reasons why you were selected to be selected .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir in gateway I might have not answered the technical questions very well as compared to the other candidates.
+
+SUMMARY of the ABOVE PARAGRAPH: Sir in gateway I might have not answered technical questions very well, compared to the other candidates. Sir in gatekeeper I might not have answered the technical questions . Sir in his first interview, he said: ‘I might have . not answered . very well . compared to other candidates’
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay so how have you prepared for TCS interview now?
+
+SUMMARY of the ABOVE PARAGRAPH: TCS interview will be aired on November 11 at 8pm ET . Interview will be on November 14 at 8.30pm ET on CNN.com.com Live . Follow CNN Living on Facebook and Twitter for more information about TCS interviews.com/Follow CNN Living .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir I have an enhanced my technical skills I have been preparing for the core subjects, and I've been doing coding almost every day So I think that I prepared quite well For Tcs.
+
+SUMMARY of the ABOVE PARAGRAPH: Sir I have an enhanced my technical skills I have been preparing for the core subjects, and I've been doing coding almost every day . So I think that I prepared quite well For Tcs. Sir I'm confident that I will be able to do well at the end of the year .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay ahhh umm  Gauri tell me what are your future plans?
+
+SUMMARY of the ABOVE PARAGRAPH: Gauri tell me what are your future plans? Okay ahhh umm  Gauri tells me what she plans to do with her career . Gauri says she has no plans for her life . She says she wants to see more of her career as a model and actress .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir my future plans sir if I join TCS or otherwise
+
+SUMMARY of the ABOVE PARAGRAPH: Sir my future plans sir if I join TCS or otherwise if I joined TCS, or otherwise . Sir my plans sir are Sir Myles' future plans Sir Sir Sir if he joins TCS . Sir Sir my . future plans are Sir Sir . if I Join TCS  or otherwise, Sir Sir I'm not sure if I want to join .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: What are your future plans ?
+
+SUMMARY of the ABOVE PARAGRAPH: What are your future plans ? Share your pictures with us at iReport.com . Please submit your photos of your future in the gallery for a new gallery . Visit www.report.com/pictures/images for more information about your future . Visit http://www.pictures@picturesonline.com for more photos .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir I want to join a software company and a work for it. And I want to a learn as much ah like as much languages and as much skills as I can and I also want to achieve great success so that I'm satisfied with what I've learned
+
+SUMMARY of the ABOVE PARAGRAPH: Sir I want to join a software company and a work for it, he says . And he wants to a learn as much languages and as much skills as I can . He also wants to achieve great success so that he's satisfied with what he's learned . Sir I Want to a join software company, he said .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.7802837
+PARAGRAPH: Okay ah what do you think are the reasons for youngsters switching over jobs?
+
+SUMMARY of the ABOVE PARAGRAPH: What do you think are the reasons for youngsters switching over jobs? Please share your thoughts with us at CNN iReport.com . Have you ever been to a job? Please submit your thoughts at the end of the article. Please email us at http://www.mailonlineonline.com/news/change/changechange .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir maybe it is job satisfaction because they enter a company without a a seeing the background of the company and then they later find out that the company was not suitable for them.
+
+SUMMARY of the ABOVE PARAGRAPH: Sir maybe it is job satisfaction because they enter a company without a a a seeing the background of the company and then they later find out that the company was not suitable for them . Sir Maybe it is that they enter companies without a view of the background and then find out they are not suitable .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay. That's for you, what are the three important things ah that ah one should consider before joining any organization as a fresher?
+
+SUMMARY of the ABOVE PARAGRAPH: What are the three important things ah that ah one should consider before joining any organization as a fresher? That's for you, what are the 3 important things you should consider? What's the three most important things that ah should consider, and what's the most important thing you should do?
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.9347408
+PARAGRAPH: So firstly the one should look if there is a lot to learn from the company, I mean, there should be a very steep like growing curve in the company. Secondly, they should be like the colleagues and everything should be very frank so that they help you in every way and thirdly  for me there should be a brand name so that there is a satisfaction that yes I have achieved a level and now I can go to the next level.
+
+SUMMARY of the ABOVE PARAGRAPH: The one should look if there is a lot to learn from the company, I mean, there should be a very steep like growing curve in the company. Secondly, they should be like the colleagues and everything should be very frank so that they help you in every way . For me,  for me there should have a brand name so that there is  satisfaction that yes I have achieved a level .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.85819423
+PARAGRAPH: Okay technically what gives you job satisfaction?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay technically technically what gives you job satisfaction? What do you give you the job satisfaction of your job? What gives you that satisfaction? "What gives you a job satisfaction?" "I love my job," she says. "I like my job. I like it. I love it"
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir technically the latest I want to go with latest technical skills, like not obsolete technologies, but the latest technologies.
+
+SUMMARY of the ABOVE PARAGRAPH: "I want to go with latest technical skills, like not obsolete technologies, but the latest technologies," says Sir Richard Hammond . Sir Hammond says he wants to go ahead with the latest technology skills, not obsolete technology, but latest technologies . He says he is looking to take on the challenge of the world's most powerful technology .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: So how does TCS fit into your requirement?
+
+SUMMARY of the ABOVE PARAGRAPH: So how does TCS fit into your requirement? So how do you fit into that requirement? TCS fits into your requirements? So does it fit into a requirement? How do you know what you need to do to make sure you're going to be able to get the best job?
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir tcs changes with technologies according to the needs of the people of the or so there is not a there is no fixed technology that they use they use according to the clients which is very well.
+
+SUMMARY of the ABOVE PARAGRAPH: Sir tcs changes with technologies according to the needs of the people of the . or so there is not a there is no fixed technology that they use they use . They use according to . the clients which is very well, says Sir Tcs. Sir TCS .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: which are the major clients of TCS? Can you name three or four of them?
+
+SUMMARY of the ABOVE PARAGRAPH: which are the major clients of TCS? Can you name three or four of them? TCS is a global technology consulting firm that is based in New York City, New York, Washington, D.C. which are based in the U.S. can name a few of the clients of the company .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: I'm sorry sir but I'm not aware of the clients.
+
+SUMMARY of the ABOVE PARAGRAPH: I'm sorry sir but I'm not aware of the clients. I'm sure you're aware of your clients. Please tell me if you have any clients you have clients . I don't know what clients are, I'm just not sure if they have clients, it's not a client .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay sure anything that you want to ask?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay sure anything that you want to ask? Okay . Okay sure . Okay . What do you have to say to anyone who has a question? Please email us at CNN.com/Heroes.com for more information . Please submit your questions to the Daily Mail Online home .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir will I be able to like fit in the company? I mean what do you think?
+
+SUMMARY of the ABOVE PARAGRAPH: Sir will I be able to like fit in the company? I mean what do you think? I don't think it's a good idea, Sir . I mean, I think it would be a good thing for the company. Sir will it be a great thing for me? I think I would like fit here, Sir will you fit here?
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Will you be able to fit into the company?
+
+SUMMARY of the ABOVE PARAGRAPH: Will you be able to fit into the company? Share your thoughts with us at CNN iReport . Share your own photos of your favorite moments of your life . Share them with us on iReport.com . Visit CNN.com/Travel next Wednesday for a new look at our gallery of snapshots .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Yes sir
+
+SUMMARY of the ABOVE PARAGRAPH: Yes sir. Yes sir . Yes sir, please please please tell me . Please tell us what you want to do . Yes, please. Yes, yes, yes. Yes. Yes . No, no, yes sir. No, yes . No. No. I want to say yes .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Yeah, as per your own analysis, you said you're a good team player and what requirements you said for a good job in case you have those qualities I'm sure you will be able to fit into.
+
+SUMMARY of the ABOVE PARAGRAPH: As per your own analysis, you said you're a good team player and what requirements you said for a good job in case you have those qualities, I'm sure you will be able to fit into. Yeah, as per my own analysis . I'm not sure whether you will fit into the role, but you will have to be a team player .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay, sir, thank you any more suggestions for me?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay, sir, thank you any more suggestions for me? Please come up with your own suggestions for a new name . Please submit your suggestions for the new name of your new name. Please submit a photo of your favorite new name for next week’s new name, please .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: No nothing more adventure will finally give his remarks.
+
+SUMMARY of the ABOVE PARAGRAPH: "No nothing more adventure will finally give his remarks," he said . "No. No nothing more adventures will give him the opportunity to give his speech," he added. "He will give it to the world," he insisted. "It's a good thing for the world to know what's going to happen."
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Thank you so much sir.
+
+SUMMARY of the ABOVE PARAGRAPH: Thank you so much sir. Thank you for your kind of words. I'm sure you'll be able to hear from you again. I'll be happy to see you back in the comments. Please send us a video of your thoughts. We'll see you in the next few days.
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: All the best right
+
+SUMMARY of the ABOVE PARAGRAPH: All the best right right right from the start of this week's coverage of the U.S. election . CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots of the election for next week's gallery . Visit CNN iReport.com/Travel next Friday for a new gallery of snapshots .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Gauri
+
+SUMMARY of the ABOVE PARAGRAPH: Gauri Gauri is the author of a new book, "Gauriauri" Gauri . Gauri was born in India . She is famous for her work in the U.S. and travels around the world . She has been married for more than 30 years and has a daughter .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Yes sir
+
+SUMMARY of the ABOVE PARAGRAPH: Yes sir. Yes sir . Yes sir, please please please tell me . Please tell us what you want to do . Yes, please. Yes, yes, yes. Yes. Yes . No, no, yes sir. No, yes . No. No. I want to say yes .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: What is your basically the aim you want to go into software companies or anything more than that?
+
+SUMMARY of the ABOVE PARAGRAPH: What is your basically the aim you want to go into software companies or anything more than that? What is the aim of your goal? "I want to be in software companies," he says. "I don't want to do anything more that that," he asks. "What's your aim?"
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: No sir I want to go into software companies that is aim
+
+SUMMARY of the ABOVE PARAGRAPH: No sir I want to go into software companies that is aimed at software companies, he says . No sir, he wants to focus on software companies like Apple, Google, Apple, Microsoft, Apple and Google . He wants to work in software companies such as Apple, Facebook, Google and Microsoft .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: okay. You don't want to go for any higher studies or entrepreneurship like.
+
+SUMMARY of the ABOVE PARAGRAPH: You don't want to go for any higher studies or entrepreneurship like. okay. You want to focus on entrepreneurship or entrepreneurship . okay. Don't go for higher studies like. higher studies, entrepreneurship like . okay . Don't be afraid of going for higher education or entrepreneurship, she says .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.76188827
+PARAGRAPH: No sir entrepreneurship No  but the highest studies many of the companies Tcs also provide like conc simultaneously highest studies So that may also be a very good option.
+
+SUMMARY of the ABOVE PARAGRAPH: No sir entrepreneurship No. but the highest studies many of the companies Tcs also provide like conc simultaneously highest studies . So that may also be a very good option. No sir entrepreneur No. entrepreneurship No . entrepreneurship No  but  but the best studies many companies also provide .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay for example you have got you have got the offer from Tcs Or at the same time Meanwhile you're getting the better offer than Tcs from another organization which is not a tier one organization but tier two organization but the packages just develop what we are offering then what you will do?
+
+SUMMARY of the ABOVE PARAGRAPH: The packages just develop what we are offering then what you will do? Or at the same time Meanwhile you're getting the better offer than Tcs from another organization which is not a tier one organization but tier two organization but the packages just become more and more of a package .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: a sir I compare both the companies in terms of the
+
+SUMMARY of the ABOVE PARAGRAPH: a sir I compare both the companies in terms of terms of the time they spent together . a sir . I compare them to each other. a sir, a sir. I compare this to the time I spent with the U.S. government. a . sir . A sir .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: defiantly I’ve told the tcs is the tier one and you've got the offer from tier two it means the startup or midsize company with the package for example, we are giving you four lakh they are giving you eight lakh in that case what do you do?
+
+SUMMARY of the ABOVE PARAGRAPH: The tcs is the tier one and you've got the offer from tier two it means the startup or midsize company with the package for example, we are giving you four lakh they are giving them eight lakh in that case what do you do? I’ve told the tcs. defiantly .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH:  Sir I choose Tcs only because Tcs is like almost hundred and fifty years old company so it it has a very good job security. And as I cannot really trust a startup because they are new in the industry, and that's why there is there might be some trust issues so i
+
+SUMMARY of the ABOVE PARAGRAPH: Sir I choose Tcs only because Tcs is like almost hundred and fifty years old company so it it has a very good job security . And as I cannot really trust a startup because they are new in the industry, and that's why there is there might be some trust issues so i .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.81134903
+PARAGRAPH: At least salary does not matter for you ?
+
+SUMMARY of the ABOVE PARAGRAPH: At least salary does not matter for you ? At least Salary does not matters for you . At least salaries do not matter, says CNN.com's John Defterios.com.com . In the U.S. state of Washington, D.C., the state of the nation's capital, is located in Washington, DC .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir job security is more important than a salary
+
+SUMMARY of the ABOVE PARAGRAPH: Sir job security is more important than a salary, says Sir Sir Sir . Sir Sir Michael Clarke-Clarke says job security and job security are more important . Sir Clarke says he wants job security, not salary, but job security . He says he has 'nothing to give' as a result of his success in his career .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: if you will not perform well in the tcs also you can get the job insecurity in tcs also.
+
+SUMMARY of the ABOVE PARAGRAPH: If you will not perform well in the tcs also you can get the job insecurity in tcs . You can get a job insecurity also in the role of a tcs. if you will . not . perform well, you can also get the . job insecurity . if you are not . performing well in  tcs, you will have to perform well .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir but I will perform good and I would like from my end there will be no complaints from Tcs.
+
+SUMMARY of the ABOVE PARAGRAPH: I would like from my end there will be no complaints from Tcs. Sir but I will perform good and I will ... perform good," he said . "I would like to see no complaints" from the Tcs, he said, but he would be happy if he performed good .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay yeah
+
+SUMMARY of the ABOVE PARAGRAPH: Okay yeah yeah. Okay yeah . Okay yeah. What's going on here? What's really going on with this? "I'm going on to tell you what's really happening," he says . What's next? "What's next?" he asks. "What really happened?" he says.
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Gauri
+
+SUMMARY of the ABOVE PARAGRAPH: Gauri Gauri is the author of a new book, "Gauriauri" Gauri . Gauri was born in India . She is famous for her work in the U.S. and travels around the world . She has been married for more than 30 years and has a daughter .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Good afternoon sir
+
+SUMMARY of the ABOVE PARAGRAPH: Good afternoon sir. Good afternoon Sir. I'm going to tell you what I really want to do . I'm looking forward to seeing you again. Please send your best wishes to see if you know you can still see you in good spirits . Have you ever seen him? Please email him to say hello to him.
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Good afternoon ah which domain you feel comfortable?
+
+SUMMARY of the ABOVE PARAGRAPH: Good afternoon ah which domain you feel comfortable? Please tell us if you like to use the domain name of your preferred domain . I like to see your domain name in which domain name is appropriate . Please choose which domain is appropriate for your use of the domain, please use it .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Ah sir core subject subjects programming C++ , DBMS Yes sir.
+
+SUMMARY of the ABOVE PARAGRAPH: Core subject subjects programming C++ and DBMS . Yes sir. Ah sir . Ah sir. Yes sir . Core subject subject subjects . Programming C++ , DBMS programming C ++ and programming CMS DBMS is a core subject of the subject subject . Yes, yes .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: So, give me a concept to implement snake and ladder.
+
+SUMMARY of the ABOVE PARAGRAPH: So, give me a concept to implement snake and ladder . So, please give me an idea of how to use the ladder and snake to get a ladder to reach the top of the pyramid. So, how do you do it? Please give us a concept of snake-and-ladders .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: implement Snakes and Ladders using any programming language?
+
+SUMMARY of the ABOVE PARAGRAPH: Snakes and Ladders can be played using any programming language . How do you play Snakes Ladders using a programming language? Do you know how to use Snakes to Ladders? Use any language or programming language to play the game using any language you can use .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: I want to know only concept not the implementation Okay I'm giving you the one minute
+
+SUMMARY of the ABOVE PARAGRAPH: I want to know only concept not the implementation, not the idea . I'm giving you the one minute. Okay, give me one minute . Give me a minute to tell you what you think you need to know about the project. I want you to know what you want to do with it .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Hmm  sir can I write something
+
+SUMMARY of the ABOVE PARAGRAPH: Hmm  sir can I write something? I think I'm going to write something here? I'm not sure what I would like to do . I'm sure you can't write something, but please please write something for you to see if you want to write a piece of your own .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH:  Yes yes but I need only logic right not the coding a code part.
+
+SUMMARY of the ABOVE PARAGRAPH: "Yes yes but I need only logic right not the coding a code part.  Yes yes," says the author of the book . "I need logic right.   Yes, but I don't need to code code part," says author of "Yes, yes, yes. Yes, yes"
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Ok sir
+
+SUMMARY of the ABOVE PARAGRAPH: Ok sir. Ok sir . Ok sir, please tell me what happened to you? Ok . Ok, I'm fine. Ok . I'm OK. Ok. Ok, you're OK. I'm not OK. What's next? Ok, please please. I'll be OK .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Hua Gauri
+
+SUMMARY of the ABOVE PARAGRAPH: Hua Gauri is a member of the world's largest conservation group of conservationists . She is also known for her work in the U.S. National Geographic Geographic Geographic Network . She has published a book called "Hua Gauri" and "Gauri" in which she shares her views of her work on conservation .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Yes sir thoda thoda ah sir we can
+
+SUMMARY of the ABOVE PARAGRAPH: Yes sir thoda thoda . ah sir we can. Yes sir . We can. We can, we can, I say . Yes sir. Ah sir, we're fine. We're fine, we say we can . We'll be in touch with you again. Please tell us what we can do .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Verbaly btao to bus when I can analyze that you are going in the right direction or not.
+
+SUMMARY of the ABOVE PARAGRAPH: Verbaly btao to bus when I can analyze that you are going in the right direction or not . Verbaly: "I can't say if I think you're doing the right way or not." Verbaly says he will not give up on the bus when he gets to the bus .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay sir ah so ah firstly a we will the will like a this for example of how how many columns are there for example, I take disk of fifty the maximum we take a fifty and then now we take dice. so a variable in which we will take a random function with the help of random function, we can derive a number between one to six and for the first for the first move, if the numbers random number is six, then we can move like we can keep a counter of the player. so we can increase the counter with the numbers that comes in the dice. And then now we can predefine the snakes for example, if at if we reach five then the the counter should like increased by 10 blocks. so the counter will increase by ten block That is the ladder and this way we can like pre define the next.
+
+SUMMARY of the ABOVE PARAGRAPH: A variable in which we will take a random function with the help of random function, we can derive a number between one to six . For the first for the first move, if the numbers random number is six, then we can move like we can keep a counter of the player . And then now now we can predefine the snakes for example, if at if we reach five then the the counter should like increased by 10 blocks . That is the ladder and this way we can like pre define the next .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.797202
+Okay ahh What are the five specific point about Tcs which makes Tcs different from the other IT MNCs?
+COSINE SIMILARITY SCORE = 0.85987437
+PARAGRAPH: My next is the how you will how you will determine whether to you have to increment its dice value means you you own to use it's increasing the counter value in form of ladder yes sir or you have to decrement the counter value in form of snake. so how you will determine it.
+
+SUMMARY of the ABOVE PARAGRAPH: How you will determine whether to you have to increment its dice value means you you own to use it's increasing the counter value in form of ladder or decreasing the number of snake . How will you decide whether to increase the number you own is a ladder or snake? How do you determine it?
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir with the help of functions. For example, if the dice value for if if the dice value or the that block value in which the counter is right now is five so I have assigned five already that five is a ladder, so then it will increase and for example if 12 is a snake then I've already defined that at 12 you need to decrement the value by for example FIFO or whatever. So I will predefined
+
+SUMMARY of the ABOVE PARAGRAPH: Sir with the help of functions. For example, if the dice value for if if if the . dice value or the that block value in which the counter is right now is . is five so I have assigned five already that five is a ladder, so then it will increase and for example if 12 is a snake then I've already defined that at 12 you need to decrement the value by for example FIFO or whatever .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.9754579
+PARAGRAPH: where you will predefined these values?
+
+SUMMARY of the ABOVE PARAGRAPH: Where you will predefined these values? Where do you have a place where you can define your values? We need to find a place to define our values? What do you do? Find a place in the world where these values can be defined by your own values? Visit CNN.com/Heroes for more information .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: So I can use a dictionary to like if I'm doing in Python then I can use it dictonary.
+
+SUMMARY of the ABOVE PARAGRAPH: Python can use a dictionary to like if I'm doing in Python then I can use it dictonary . So I can . use a . dictionary to help me understand what I am doing and what I want to do in Python . Python is a language that can be written in Python and can be used in a dictionary .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: If we are using C then and C++, Java there we doesn't have any dictionary
+
+SUMMARY of the ABOVE PARAGRAPH: If we are using C then and C++, Java there we doesn't have any dictionary . Java there is no dictionary for C then then and Java . Java is Java, C then, C++ and C then is Java . We don't have a dictionary for Java .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Then sir we can ah we can use array of arrays and then like make dictionary with the help of arrays
+
+SUMMARY of the ABOVE PARAGRAPH: We can use array of arrays and then like make dictionary with the help of arrays, we can make dictionary . Then sir we can ah we can ... use array arrays to make dictionary, then use array array of array arrays . We can also use arrays of arrays to create dictionary, make dictionary and create dictionary .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay yes can we switch or not there?
+
+SUMMARY of the ABOVE PARAGRAPH: Okay yes can we switch or not there? Okay yes yes . Okay yes . Can we switch? "Yes yes," she says. Okay yes, not there," she asks. "Can we switch?" She says. "Yes, yes, we switch" She says she wants to switch .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: switch yes hnn but so we can use but it is too long like we will have to write the code many times in switch
+
+SUMMARY of the ABOVE PARAGRAPH: switch yes hnn but so we can use but it is too long like we will have to write the code many times in switch . switch yes, hnn. switch yes . switch is too short and too long for us to write code in switch code . switch code is so long that it can be used in switch function .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: why many times we can define a in switch global or anywhere then we can use it
+
+SUMMARY of the ABOVE PARAGRAPH: Why many times times we can define a in switch global or anywhere then we can use it? We can define an in switch globally or anywhere we want to use it. We need to be able to define a global or global switch global . We can then use a global switch globally to use the global switch switch globally .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: cause switch for snake and switch for a ladder two separate switches we can use yes sir that we can
+
+SUMMARY of the ABOVE PARAGRAPH: Cause switch for snake and switch for ladder two separate switches we can use yes sir that we can . cause switch for . snake is switch for a ladder and cause for a snake . switch for the ladder is a ladder switch for two separate switch switches . Cause switch is for snake, switch for  ladder switch is a snake switch switch for an ladder switch .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: ahh so what do you mean by the encapsulation is Divyansh answer is correct.
+
+SUMMARY of the ABOVE PARAGRAPH: Divyansh answer is correct. ahh . ahh so what do you mean by the encapsulation? ahh So what do I mean? Diviansh answers is correct, ahh ahh I'm not sure what I mean by that . Divi's answer is right .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Sir partially it is correct it is used for data hiding but more data security. So aa in our class it is implemented using access modifiers like public protected private and there is a default access specifier as well. So ahh using these we can a define the scope of the variables or the functions like if it is public then it can be used all through and if it is protected then only the subclasses can use it and if private then only the current class can use it.
+
+SUMMARY of the ABOVE PARAGRAPH: In our class it is implemented using access modifiers like public protected private and there is a default access specifier as well . Using these we can a define the scope of the variables or functions . If it is public then it can be used all through and if it is protected then only the subclasses can use it .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.87787473
+PARAGRAPH: What do you mean by storage classes ?
+
+SUMMARY of the ABOVE PARAGRAPH: What do you mean by storage classes ? What do they mean by storing classes ? Ask about storage classes? Share your own storage classes . Share your knowledge of storage classes with iReport.com: Share your photos, videos, photos and videos of your favorite storage classes. Visit CNN.com/Stories .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: A storage classes sir im no able to recall ive a
+
+SUMMARY of the ABOVE PARAGRAPH: A storage classes sir im no able to recall ive ive a storage class . A storage class is a storage storage class. I'm not sure if I can recall  ive any of these classes. I can't recall any of the classes I've been in storage classes .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay gauri all the best
+
+SUMMARY of the ABOVE PARAGRAPH: Gauri all the best. Okay gauri . Gauri: "I love you. I love you" Gauri says she is in love with Gauri again. Gauri is in a relationship with the world's best friend, Ravi Agrawalu, who lives in India .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Thankyou so much
+
+SUMMARY of the ABOVE PARAGRAPH: Thankyou so much for all the support you can give . Please email us at www.mailonline.com/thankyou-so-much-worth.com . Back to the page you came from.com. Please submit your photos and videos of your favourite moments of the day .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Explore more and more Tcs technical interview questions right? Ok sir They are basically mainly from C and C++.
+
+SUMMARY of the ABOVE PARAGRAPH: Tcs technical interview questions are basically mainly from C and C++ . They are asked about their knowledge of programming languages and programming languages . Tcs is based on C, C, and C, while C is C is written in C . C is a C-based language and C is an open-source language .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.7623385
+PARAGRAPH: Okay sir ill keep that in mind thankyou so much sir all the best thank you
+
+SUMMARY of the ABOVE PARAGRAPH: "I will keep that in mind thankyou so much sir all the best thank you," she said . "I'll keep it in mind," she replied . "Thank you sir. Okay sir ill keep that    -  thankyou . Thank you sir . All the best I say .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: A from my side and rathor sir interview my remark for you definitely you are the good candidate that we have already observed many time ahh technical knowledge I have not checked out your head of department CAC will check it out but a you can easily correct the process.
+
+SUMMARY of the ABOVE PARAGRAPH: A from my side and rathor sir interview my remark for you definitely you are the good candidate that we have already observed many time ahh technical knowledge I have not checked out your head of department CAC will check it out but a you can easily correct the process .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Okay thank you so much sir
+
+SUMMARY of the ABOVE PARAGRAPH: Okay thank you so much sir. Okay, thank you for your kind of kind of words . We'll be happy to hear you back in the comments again. Please send your best wishes to see if you can help us in the next episode of this week's iReporter coverage .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Or a when you are clear about your thought process then at least it should be justified when you are giving the interviews Yes sir sure it is very important ok sir if they feel that you want to come but you can not come then then there is a chances they can drop you. Either you are a good candidate or the best for example Google want to hire somebody or they find the candidate which is having the capabilities to get a caror package in a anom. But they have the doubt that no doubt is the best but they have the doubt that either he'll join or not. then might be they can drop so yes that kind of condition in the interview at least shoud not be so case.
+
+SUMMARY of the ABOVE PARAGRAPH: If they feel that you want to come but you can not come then then then there is a chances they can drop you . Either you are a good candidate or the best for example Google want to hire somebody or they find the candidate which is having the capabilities to get a caror package in a anom . Or a when you are clear about your thought process then at least it should be justified .
+
+INSIGHTS of the PARAGRAPH: 
+Okay ahh thank you for allowing me to introduce myself. My name is Gauri shirmali. I am from Udaipur Rajasthan. I'm doing computer science engineering from Geetanjali Institute of technical studies. I secured 9.2 c GPA in 10, standard 73.4 Cgp ahh percentage in 12 standard. And currently an engineering my aggregate score is 77 percentage. computer sciences is omnipresent that is it is present in every field and hence I have invested these last 3.5 almost years and a developing my software skills My technical skills include programming in Python, Java, C, c++, databases I am also familiar with web development, Kubernetes, Docker, Ansible, et cetera. So these all are my technical skills. And I’ve  also used this skills to build several projects, which include user management project and attendance management project. I've also participated in smart India hackathons of which ahh in one we also got to the finals. Ahh these are my technical skills, coming to my extracurricular activities I love to dance umm particularly semi classical dance. I also like to read write and paint have been the student editor of our colleges newsletter bits and bytes. And currently I am one of the cultural heads of our students club, So I've I have also participated in several donation camps several donation camps as I am a  a member of the Rotary Club Udaipur, I consider myself as a very focused person, I’ve  and I always work towards my goals and in a very efficient manner. I am a team player and very optimistic in tough times And lastly I would like to say that why not start the journey of my success by the success of joining TCS Thank you so much.
+COSINE SIMILARITY SCORE = 0.84675205
+Okay ahh What are the five specific point about Tcs which makes Tcs different from the other IT MNCs?
+COSINE SIMILARITY SCORE = 0.65760183
+PARAGRAPH: Okay I'll keep that in mind sir thank you
+
+SUMMARY of the ABOVE PARAGRAPH: "I'll keep that in mind sir thank you," she said . "I'm going to keep that a little bit in mind," she replied . "Thank you sir, thank you. Okay I'll keep it in mind. Okay, I'm fine. Thank you sir . Thank you."
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Otherwise all set all right ok
+
+SUMMARY of the ABOVE PARAGRAPH: Otherwise all set all right ok ok . Otherwise all right, ok. Otherwise, ok, I'll be fine. I'm fine. Otherwise I'm not fine. OK, I'm just fine. Ok, I just want to see if you're OK. I'll see if I'm OK. OK. Ok. Ok . Ok.
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Thank you
+
+SUMMARY of the ABOVE PARAGRAPH: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots for next week's gallery of snapshots of your favorite destinations . Visit CNN iReport.com/Travel next Wednesday for a new gallery of shots of the world's most beautiful beaches .
+
+INSIGHTS of the PARAGRAPH: 
+PARAGRAPH: Thank you sir
+
+SUMMARY of the ABOVE PARAGRAPH: Thank you sir. Thank you for your service . Please email your photos to us at iReport@dailymailonline.co.uk . Visit CNN.com/Travel next Wednesday for a new look at the latest iReporter's weekly Travel Snapshots of the World .
+
+INSIGHTS of the PARAGRAPH: 
