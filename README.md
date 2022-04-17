@@ -1,5 +1,7 @@
 This is a NLP task to summarise a conversation .
+
 I have used pretrained transformers to execute it.
+
 Firstly,the input file in the format of docx file  was made to read in python and then I extracted paragraphs from the file.
 Then I made a loop which performs 2 objectives:
 a) Forms the summary of the extracted paragraphs
